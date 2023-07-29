@@ -12,8 +12,7 @@ How to Play:
 2. The game objective is to POP as many balloons as possible. 
 3. Move the phone around to view the balloons around you - aim with the crosshair - and tap anywhere on the screen to shoot.
 4. If you move positions, press RESET to reset the physical space around which the balloons must spawn.
-
-![WhatsApp Image 2023-07-29 at 12 34 19](https://github.com/akhilbobby/BalloonPop-AR/assets/41664365/b94182b9-04e7-4e17-8fa7-f58e329fe155)
+.
 
 Game features:
 1. Balloons are spawned at random, but within certain limits around the players' 3D space.
@@ -21,3 +20,5 @@ Game features:
 3. If the player move positions, there is an option to reset AR Sessions for the balloons to spawn within the players' vicinity.
 4. The scores of every game session are tracked and displayed. High scores are persistent across sessions.
 5. The augmented balloons are shot at using Physics Raycast hits.
+   
+![WhatsApp Image 2023-07-29 at 12 34 19](https://github.com/akhilbobby/BalloonPop-AR/assets/41664365/b94182b9-04e7-4e17-8fa7-f58e329fe155)
